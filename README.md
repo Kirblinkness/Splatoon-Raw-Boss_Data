@@ -43,3 +43,6 @@ AMERICA:
 https://npts.app.nintendo.net/p01/tasksheet/1/sE6KwEpQYyg6tdU7/optdata?c=US&l=en
 
 https://npts.app.nintendo.net/p01/tasksheet/1/sE6KwEpQYyg6tdU7/schdata?c=US&l=en
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+Special thanks to the people who archived Schedule data download links on Archive.org!
+DM on Discord if you have data that has not been added to this collection!|Profile name Kirblinkness|
